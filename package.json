@@ -1,0 +1,11 @@
+{
+  "name": "naked",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./generated/main"
+  },
+  "dependencies": {
+    "@types/node": "*"
+  }
+}

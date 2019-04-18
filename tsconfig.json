@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "allowJs": true,
+        "outDir": "generated",
+        "strictNullChecks": true,
+        "lib": ["es2017"]
+    }
+}
